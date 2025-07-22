@@ -28,6 +28,7 @@ Sou especialista em Linux e DevOps com mais de 10 anos de experiência em admini
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://raw.githubusercontent.com/ricardofadini/zabbix-icon/master/zabbix-icon.png" height="40" alt="Zabbix" />
 </div>
 
 ---
