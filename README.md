@@ -4,7 +4,7 @@
 Sou especialista em Linux e DevOps com mais de 10 anos de experiência em administração de servidores, automação de infraestrutura e gestão de pipelines CI/CD. Tenho certificações como LPIC-3, DevOps Professional, SUSE CLA/CLP, entre outras. Tenho paixão por automação, containers e orquestração com Kubernetes, promovendo eficiência e confiabilidade em ambientes complexos.
 
 - 🔧 Infraestrutura como Código (Ansible, Terraform, Puppet, Salt)
-- ☕️ Cloud: AWS, OCI, Azure DevOps
+- ☕️ Cloud: AWS, GCP, OCI, Azure DevOps
 - 🐳 Containers e Orquestração: Docker, Kubernetes, OpenShift
 - 🔐 DevSecOps com Trivy e Harbor
 - 📊 Monitoramento: Zabbix, Prometheus, Grafana
@@ -23,6 +23,7 @@ Sou especialista em Linux e DevOps com mais de 10 anos de experiência em admini
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab CI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />
