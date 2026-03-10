@@ -109,17 +109,6 @@ I work with a strong focus on:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dnlcsilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
-</p>
-<p align="center">
-<img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=dnlcsilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/>
-</p>
-
----
-
 ## 🚀 Featured Areas
 
 - **Cloud Infrastructure** with AWS, GCP, OCI and Azure
