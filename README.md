@@ -36,7 +36,7 @@ Sou especialista em Linux e DevOps com mais de 10 anos de experiência em admini
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnlcesilva&show_icons=true&theme=tokyonight" alt="Danilo GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dnlcsilva&show_icons=true&theme=tokyonight" alt="Danilo GitHub Stats" />
 </p>
 
 ---
