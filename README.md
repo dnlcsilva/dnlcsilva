@@ -36,7 +36,9 @@ Sou especialista em Linux e DevOps com mais de 10 anos de experiência em admini
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dnlcsilva&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dnlcsilva&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dnlcsilva&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=dnlcsilva&theme=tokyonight"/>
 </p>
 
 ---
