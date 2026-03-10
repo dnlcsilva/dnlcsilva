@@ -1,27 +1,32 @@
 # 👋 Hi, I'm Danilo Carvalho e Silva
 
-🚀 **Senior DevOps / Linux Engineer**  
-💻 15+ years working with infrastructure, automation and cloud platforms.
+🚀 **Senior DevOps / Cloud / Linux Engineer**
+
+Specialist in automation, infrastructure and cloud-native platforms with **15+ years of experience** building reliable and scalable systems.
+
+✔ Kubernetes & Cloud Infrastructure  
+✔ CI/CD & DevSecOps pipelines  
+✔ Infrastructure as Code  
+✔ Observability & Reliability Engineering  
+
+🌎 Brazil | Remote-ready | Open to DevOps / SRE opportunities
 
 ---
 
-## ⚙️ About Me
+# ⚙️ Core Expertise
 
-DevOps and Linux specialist with strong experience in automation, CI/CD pipelines, containers and cloud infrastructure.
-
-I focus on **reliability, scalability and automation** for production environments.
-
-- 🔧 Infrastructure as Code: Terraform, Ansible, Puppet, Salt
-- ☁️ Cloud Platforms: AWS, GCP, OCI, Azure
-- 🐳 Containers: Docker, Kubernetes, OpenShift
-- 🔐 DevSecOps: Trivy, Harbor
-- 📊 Observability: Prometheus, Grafana, Zabbix
-- 💻 Languages: Python, Bash, PHP
-- 🌎 Brazil | Remote / Hybrid | Open to DevOps / SRE roles
+- **Cloud Platforms**: AWS, GCP, OCI, Azure  
+- **Containers & Orchestration**: Docker, Kubernetes, OpenShift  
+- **Infrastructure as Code**: Terraform, Ansible, Puppet, Salt  
+- **CI/CD Platforms**: GitLab CI, Jenkins, Azure DevOps  
+- **DevSecOps**: Trivy, Harbor, security scanning pipelines  
+- **Observability**: Prometheus, Grafana, Zabbix  
+- **Languages**: Python, Bash, PHP  
+- **Operating Systems**: Linux (LPIC-3 certified)
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -40,16 +45,34 @@ I focus on **reliability, scalability and automation** for production environmen
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dnlcsilva&show_icons=true&theme=tokyonight"/>
+
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dnlcsilva&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img height="170" src="https://streak-stats.demolab.com?user=dnlcsilva&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+### Kubernetes Platform Automation
+Infrastructure automation using **Terraform + Kubernetes** with GitOps workflows.
+
+### DevSecOps Pipeline
+CI/CD pipelines integrating **Trivy security scanning and container registry Harbor**.
+
+### Cloud Infrastructure Provisioning
+Provisioning scalable infrastructure in **AWS and GCP using Terraform modules**.
 
 ---
 
@@ -65,14 +88,14 @@ I focus on **reliability, scalability and automation** for production environmen
 
 # 📬 Contact
 
-📧 Email:  
-dnlcesilva@gmail.com
+📧 Email  
+dnlcesilva@gmail.com  
 
 💼 LinkedIn  
-https://linkedin.com/in/danilo-carvalhosilva
+https://linkedin.com/in/danilo-carvalhosilva  
 
 💻 GitHub  
-https://github.com/dnlcsilva
+https://github.com/dnlcsilva  
 
 ---
 
